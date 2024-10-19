@@ -1,0 +1,40 @@
+Model Hyperparameters:
+Hidden Dimension: 128
+Number of Epochs: 10
+Learning Rate: staticOptimizer: SGD
+Final Training Accuracy: 0.7519
+Final Validation Accuracy: 0.5687
+Total Training Time: 352.52 seconds
+
+Per Epoch Data:
+Epoch 1: Train Acc = 0.4174, Val Acc = 0.5487, Train Loss = 1.3601, Val Loss = 1.0667
+Epoch 2: Train Acc = 0.5072, Val Acc = 0.5262, Train Loss = 1.1677, Val Loss = 1.0750
+Epoch 3: Train Acc = 0.5435, Val Acc = 0.5750, Train Loss = 1.0678, Val Loss = 1.0184
+Epoch 4: Train Acc = 0.5789, Val Acc = 0.5188, Train Loss = 0.9870, Val Loss = 1.0949
+Epoch 5: Train Acc = 0.6099, Val Acc = 0.5337, Train Loss = 0.9184, Val Loss = 1.0371
+Epoch 6: Train Acc = 0.6342, Val Acc = 0.5687, Train Loss = 0.8659, Val Loss = 1.0682
+Epoch 7: Train Acc = 0.6693, Val Acc = 0.5337, Train Loss = 0.8006, Val Loss = 1.0464
+Epoch 8: Train Acc = 0.6960, Val Acc = 0.5050, Train Loss = 0.7413, Val Loss = 1.2612
+Epoch 9: Train Acc = 0.7344, Val Acc = 0.5775, Train Loss = 0.6532, Val Loss = 1.1119
+Epoch 10: Train Acc = 0.7519, Val Acc = 0.5687, Train Loss = 0.6166, Val Loss = 1.1383
+__________________________________________________
+Model Hyperparameters:
+Hidden Dimension: 256
+Number of Epochs: 10
+Learning Rate: staticOptimizer: SGD
+Final Training Accuracy: 0.7881
+Final Validation Accuracy: 0.5150
+Total Training Time: 547.49 seconds
+
+Per Epoch Data:
+Epoch 1: Train Acc = 0.4256, Val Acc = 0.5288, Train Loss = 1.3481, Val Loss = 1.0917
+Epoch 2: Train Acc = 0.5096, Val Acc = 0.4450, Train Loss = 1.1541, Val Loss = 1.1748
+Epoch 3: Train Acc = 0.5442, Val Acc = 0.5637, Train Loss = 1.0508, Val Loss = 0.9602
+Epoch 4: Train Acc = 0.5843, Val Acc = 0.5100, Train Loss = 0.9824, Val Loss = 1.0929
+Epoch 5: Train Acc = 0.6189, Val Acc = 0.5363, Train Loss = 0.9039, Val Loss = 1.0855
+Epoch 6: Train Acc = 0.6468, Val Acc = 0.4800, Train Loss = 0.8368, Val Loss = 1.1909
+Epoch 7: Train Acc = 0.6948, Val Acc = 0.5250, Train Loss = 0.7452, Val Loss = 1.1718
+Epoch 8: Train Acc = 0.7264, Val Acc = 0.4675, Train Loss = 0.6875, Val Loss = 1.3543
+Epoch 9: Train Acc = 0.7541, Val Acc = 0.5463, Train Loss = 0.6192, Val Loss = 1.1520
+Epoch 10: Train Acc = 0.7881, Val Acc = 0.5150, Train Loss = 0.5605, Val Loss = 1.2448
+__________________________________________________
